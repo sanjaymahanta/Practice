@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-07T11:39:26 IST" name="Suite" finished-at="2024-12-07T11:39:36 IST" duration-ms="9984">
+    <groups>
+    </groups>
+    <test started-at="2024-12-07T11:39:26 IST" name="Test" finished-at="2024-12-07T11:39:36 IST" duration-ms="9984">
+      <class name="com.MouseActions.Mousehover">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.MouseActions.Mousehover@765d7657]" started-at="2024-12-07T11:39:26 IST" name="setUp" finished-at="2024-12-07T11:39:36 IST" duration-ms="9494" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="categoriesMouseHover()[pri:0, instance:com.MouseActions.Mousehover@765d7657]" started-at="2024-12-07T11:39:36 IST" name="categoriesMouseHover" finished-at="2024-12-07T11:39:36 IST" duration-ms="381" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- categoriesMouseHover -->
+      </class> <!-- com.MouseActions.Mousehover -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
