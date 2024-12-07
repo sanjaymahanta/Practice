@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="com.MouseActions.Mousehover"/>
+      <class name="com.MouseActions.PageTransition"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

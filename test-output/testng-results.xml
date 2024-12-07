@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-12-07T12:03:04 IST" name="Suite" finished-at="2024-12-07T12:03:15 IST" duration-ms="10523">
+  <suite started-at="2024-12-07T16:08:55 IST" name="Default suite" finished-at="2024-12-07T16:09:09 IST" duration-ms="13866">
     <groups>
     </groups>
-    <test started-at="2024-12-07T12:03:04 IST" name="Test" finished-at="2024-12-07T12:03:15 IST" duration-ms="10523">
-      <class name="com.MouseActions.Mousehover">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.MouseActions.Mousehover@765d7657]" started-at="2024-12-07T12:03:04 IST" name="setUp" finished-at="2024-12-07T12:03:14 IST" duration-ms="9923" status="PASS">
+    <test started-at="2024-12-07T16:08:55 IST" name="Default test" finished-at="2024-12-07T16:09:09 IST" duration-ms="13866">
+      <class name="com.MouseActions.PageTransition">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.MouseActions.PageTransition@74235045]" started-at="2024-12-07T16:08:55 IST" name="setup" finished-at="2024-12-07T16:09:08 IST" duration-ms="12839" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method signature="categoriesMouseHover()[pri:0, instance:com.MouseActions.Mousehover@765d7657]" started-at="2024-12-07T12:03:14 IST" name="categoriesMouseHover" finished-at="2024-12-07T12:03:15 IST" duration-ms="469" status="PASS">
+        </test-method> <!-- setup -->
+        <test-method signature="flow()[pri:0, instance:com.MouseActions.PageTransition@74235045]" started-at="2024-12-07T16:09:08 IST" name="flow" finished-at="2024-12-07T16:09:09 IST" duration-ms="881" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- categoriesMouseHover -->
-      </class> <!-- com.MouseActions.Mousehover -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+        </test-method> <!-- flow -->
+      </class> <!-- com.MouseActions.PageTransition -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
