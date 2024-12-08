@@ -26,7 +26,7 @@
         <configuration>
           <testFailureIgnore>false</testFailureIgnore>
           <includes>
-     <include>**/Mousehover.java</include>
+     <include>**/PageTransition.java</include>
      
     </includes>
         </configuration>
